@@ -1,5 +1,7 @@
 # Lenovo Yoga 7 Pro - Linux Configuration
 
+## IMPORTANT NOTICE: The internal microphone is not detected with this setup, I'm searching for a fix. Avoid using this configuration if you need audio input.
+
 Here you will find some configuration files to have a fully working Linux setup, on the Lenovo Yoga 7 Pro (serial: 14IRH8).
 
 The most important fix is related to the audio part: without the options in `intel-sound-fix.conf`, I wasn't able to adjust the volume on my PC, it was 100% or none, no middle values.
